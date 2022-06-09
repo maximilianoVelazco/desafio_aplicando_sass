@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilianoVelazco/desafio_aplicando_sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maximilianoVelazco/desafio_aplicando_sass/issues"
+  },
+  "homepage": "https://github.com/maximilianoVelazco/desafio_aplicando_sass#readme",
   "description": ""
 }
