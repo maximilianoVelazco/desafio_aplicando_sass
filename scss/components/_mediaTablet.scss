@@ -36,6 +36,9 @@
                         .enlace {
                             border-bottom: 2px solid transparent;
                             font-size: 2.03rem;
+                            &:hover{
+                                border-bottom: 2px solid transparent;
+                            }
                         } 
                     } 
                 } 
